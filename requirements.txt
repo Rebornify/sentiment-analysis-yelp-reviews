@@ -1,0 +1,5 @@
+transformers
+torch
+selenium
+beautifulsoup4
+pandas
